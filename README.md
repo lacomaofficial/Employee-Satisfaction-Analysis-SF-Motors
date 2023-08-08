@@ -3,7 +3,7 @@
 
 ## Project Overview
 
-In the journey to enhance employee satisfaction and retention at Salifort Motors, we embarked on a comprehensive analysis that encompassed various facets of employee dynamics and engagement. Our efforts culminated in the construction of a predictive model using advanced machine learning techniques.
+In this project, the HR department of Salifort Motors seeks to enhance employee satisfaction and retention. My task involves analyzing this data and constructing a predictive model to ascertain the likelihood of an employee leaving the company. By identifying employees prone to quitting, the project aims to uncover the factors influencing their decisions. This initiative is crucial as improved employee retention can save time and resources spent on recruiting and onboarding new staff, benefiting the company overall.
 
 
 ## Exploratory Analysis
