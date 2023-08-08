@@ -23,6 +23,8 @@ This project amalgamates data science and organizational psychology, guiding SF 
 
 
 Feel free to explore!
-![pexels-erik-mclean-7561184](https://github.com/lacomaofficial/Employee-Satisfaction-Analysis-SF-Motors/assets/132283879/b20157a3-432b-4682-a5b7-d448583dc90c)
 
 
+
+
+![pexels-roman-ska-6515611](https://github.com/lacomaofficial/Employee-Satisfaction-Analysis-SF-Motors/assets/132283879/9bf6fb89-df77-406e-be8e-900e81a4bfec)
